@@ -14,6 +14,8 @@ import matplotlib.pyplot as plt
 
 import numpy as np
 
+# does this remote repo work
+
 class INFOGAN():
     def __init__(self):
         self.img_rows = 28
